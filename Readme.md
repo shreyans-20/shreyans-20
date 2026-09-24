@@ -118,17 +118,7 @@ I build dashboards that **track real business decisions**: hotel demand, flight 
 
 <br>
 
-### 🗺️ [Case #5 · Corporate Travel Demand & Route Intelligence](https://github.com/shreyans-20/Corporate-Travel-Demand-Route-Intelligence-Dashboard)
-*A map of where the business actually travels.*
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-8b5cf6?style=flat-square) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square)
-
-- Mapped route-level demand patterns to support **procurement and capacity planning**.
-- Merged multiple data sources into **one unified model** using Power Query transformations.
-
-<br>
-
-### 🤖 [Case #6 · Measuring the Impact of AI Tools on Students' Productivity](https://github.com/shreyans-20/Measuring-the-Impact-of-Artificial-Intelligence-Tools-on-Students-Productivity)
+### 🤖 [Case #5 · Measuring the Impact of AI Tools on Students' Productivity](https://github.com/shreyans-20/Measuring-the-Impact-of-Artificial-Intelligence-Tools-on-Students-Productivity)
 *Does AI actually make students more productive? I asked 388 of them.*
 
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -144,17 +134,6 @@ I build dashboards that **track real business decisions**: hotel demand, flight 
 - 🐍 Sharpening **Python** for automation and end-to-end data pipelines
 - 📐 **Business Analytics capstone**: regression, ANOVA and logistic modeling on real datasets
 - 📈 Finishing the **Power BI layer** for the Campaign Profitability Analyzer
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shreyans-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyans-20&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
